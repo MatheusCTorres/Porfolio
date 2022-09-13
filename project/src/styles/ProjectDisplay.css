@@ -30,3 +30,16 @@ h1 {
   font-size: 60px;
   color: black;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .project img{
+    width: 374px;
+  }
+
+  .project p{
+    font-size: 22px;
+    padding: 15px;
+  }
+
+}
