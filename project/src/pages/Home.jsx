@@ -1,12 +1,13 @@
 import GithubIcon from "@material-ui/icons/GitHub";
 import Link from '@material-ui/core/Link';
 import "../styles/Home.css";
+import "../styles/HomeAnimation.css";
 
 function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2 className="homeTitle">
+          <h2 className="homeTitle">
           <span>Hi, My Name is Matheus</span>
         </h2>
         <div className="icon">

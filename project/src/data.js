@@ -4,6 +4,7 @@ import Notes from "./assets/notes.jpg";
 import Chat from "./assets/chat.gif";
 import Pomodoro from "./assets/pomodoro.png";
 import Crypto from "./assets/crypto.png";
+import Gallery from "./assets/gallery.png";
 
 export const ProjectList = [
     {
@@ -11,6 +12,12 @@ export const ProjectList = [
         image: Covid,
         skills: "ReactJS, JavaScript, ChartJS, Styled Component, Bootstrap, Covid19api",
         url: "https://github.com/MatheusCTorres/Covid-Tracker"
+    },
+    {
+        name: "Photo-gallery",
+        image: Gallery,
+        skills: "ReactJS, JavaScript, Node.js, MongoDB, Express",
+        url: "https://github.com/MatheusCTorres/Photo-gallery"
     },
     {
         name: "Shop-list",
