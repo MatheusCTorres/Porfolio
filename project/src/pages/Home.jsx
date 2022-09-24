@@ -1,7 +1,6 @@
 import GithubIcon from "@material-ui/icons/GitHub";
 import Link from '@material-ui/core/Link';
 import "../styles/Home.css";
-import "../styles/HomeAnimation.css";
 
 function Home() {
   return (
