@@ -1,7 +1,7 @@
 import Covid from "./assets/covid.png"
 import Shop from "./assets/shop.png";
 import Notes from "./assets/notes.jpg";
-import Chat from "./assets/chat.gif";
+import Blog from "./assets/blogfirebase.png";
 import Pomodoro from "./assets/pomodoro.png";
 import Crypto from "./assets/crypto.png";
 import Gallery from "./assets/gallery.png";
@@ -32,10 +32,10 @@ export const ProjectList = [
         url: "https://github.com/MatheusCTorres/Notes-App"
     },
     {
-        name: "Chat-App",
-        image: Chat,
-        skills: "ReactJS, JavaScript, Node.js, MongoDB, SocketIO",
-        url: "https://github.com/MatheusCTorres/Chat-App"
+        name: "Blog-Authentication",
+        image: Blog,
+        skills: "ReactJS, JavaScript, Firebase",
+        url: "https://github.com/MatheusCTorres/Blog-Authentication-ReactJS"
     },
     {
         name: "Pomodoro",
