@@ -20,7 +20,7 @@ export const ProjectList = [
         url: "https://github.com/MatheusCTorres/Photo-gallery"
     },
     {
-        name: "Shop-Cartt",
+        name: "Shop-Cart",
         image: Shop,
         skills: "ReactJS, JavaScript",
         url: "https://github.com/MatheusCTorres/Shopping-Cart"
