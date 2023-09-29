@@ -7,12 +7,14 @@ import Crypto from "./assets/crypto.png";
 import Gallery from "./assets/gallery.png";
 
 export const ProjectList = [
+    /*
     {
         name: "Covid-Tracker",
         image: Covid,
         skills: "ReactJS, JavaScript, ChartJS, Styled Component, Bootstrap, Covid19api",
         url: "https://github.com/MatheusCTorres/Covid-Tracker"
     },
+    */
     {
         name: "Photo-gallery",
         image: Gallery,
